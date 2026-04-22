@@ -6,6 +6,7 @@ public class javaProjDemo {
 
 		javaProjDemo pj=new javaProjDemo();
 		pj.mi();
+		pj.m2();
 		System.out.println("Hi Project H R u");
 		System.out.println("Java project");
 	}
