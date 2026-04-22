@@ -14,5 +14,8 @@ public class javaProjDemo {
 	{
 		System.out.println("This is the Test mi ");
 	}
-
+public void m2()
+	{
+		System.out.println("This is Method M2 ");
+	}
 }
